@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll-Uno</title>
-    <description>Jekyll-Uno - a minimal, responsive theme for Jekyll</description>
-    <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//</link>
-    <atom:link href="http://joshgerdes.com/jekyll-uno/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 15 Mar 2016 16:24:17 +0530</pubDate>
-    <lastBuildDate>Tue, 15 Mar 2016 16:24:17 +0530</lastBuildDate>
+    <title>Mukesh Gupta</title>
+    <description>Co-Founder of Scanova. Programmer. Reader</description>
+    <link>http://mukgupta.github.io//</link>
+    <atom:link href="http://mukgupta.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 15 Mar 2016 17:02:59 +0530</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2016 17:02:59 +0530</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 20:34:23 +0530</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</guid>
+        <link>http://mukgupta.github.io//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://mukgupta.github.io//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
